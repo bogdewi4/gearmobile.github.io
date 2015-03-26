@@ -1,7 +1,7 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Portfolio
+  url: /portfolio
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Zencoder
+  url: http://zencoder.ru
